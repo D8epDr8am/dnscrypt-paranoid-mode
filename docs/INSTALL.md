@@ -37,7 +37,6 @@ git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
 ### Вариант 2: Клонирование репозитория
 ```bash
 git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
-/dnscrypt-paranoid-mode.git
 cd dnscrypt-paranoid-mode
 sudo bash install.sh
 ```
