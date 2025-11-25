@@ -13,14 +13,14 @@ BLUE='\033[0;34m'
 NC='\033[0m'
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-GITHUB_RAW="https://raw.githubusercontent.com/YOUR_USERNAME/dnscrypt-paranoid/main"
+GITHUB_RAW="https://raw.githubusercontent.com/D8epDr8am/dnscrypt-paranoid/main"
 
 echo -e "${BLUE}"
 cat << "EOF"
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║     DNSCrypt-Proxy Paranoid Mode Installer               ║
-║     https://github.com/YOUR_USERNAME/dnscrypt-paranoid   ║
+║     https://github.com/D8epDr8am/dnscrypt-paranoid   ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 EOF
@@ -190,5 +190,5 @@ echo -e "   ${BLUE}https://dnsleaktest.com${NC}"
 echo -e "   ${BLUE}https://ipleak.net${NC}"
 echo ""
 echo -e "${GREEN}📖 Документация и поддержка:${NC}"
-echo -e "   ${BLUE}https://github.com/YOUR_USERNAME/dnscrypt-paranoid${NC}"
+echo -e "   ${BLUE}https://github.com/YD8epDr8am/dnscrypt-paranoid${NC}"
 echo ""
