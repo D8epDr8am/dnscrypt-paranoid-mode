@@ -31,15 +31,15 @@ sudo pacman -S dnscrypt-proxy
 ```bash
 curl -sL https://raw.githubusercontent.com/
 git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
-/dnscrypt-paranoid/main/install.sh | sudo bash
+/dnscrypt-paranoid-mode/main/install.sh | sudo bash
 ```
 
 ### Вариант 2: Клонирование репозитория
 ```bash
 git clone https://github.com/
 git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
-/dnscrypt-paranoid.git
-cd dnscrypt-paranoid
+/dnscrypt-paranoid-mode.git
+cd dnscrypt-paranoid-mode
 sudo bash install.sh
 ```
 
@@ -48,7 +48,7 @@ sudo bash install.sh
 # Скачать конфиг
 sudo wget https://raw.githubusercontent.com/
 git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
-/dnscrypt-paranoid/main/config/dnscrypt-proxy.toml -O /etc/dnscrypt-proxy/dnscrypt-proxy.toml
+/dnscrypt-paranoid-mode/main/config/dnscrypt-proxy.toml -O /etc/dnscrypt-proxy/dnscrypt-proxy.toml
 
 # Скачать блокировочные списки
 sudo wget https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt -O /etc/
