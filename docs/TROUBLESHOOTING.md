@@ -144,4 +144,4 @@ sudo bash install.sh
 - Вывод `sudo dnscrypt-proxy -check`
 - Содержимое `/var/log/dnscrypt-proxy/`
 
-https://github.com/YOUR_USERNAME/dnscrypt-paranoid/issues
+https://github.com/D8epDr8am/dnscrypt-paranoid-mode/issues
