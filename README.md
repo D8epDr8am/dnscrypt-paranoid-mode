@@ -19,12 +19,12 @@
 
 ## 🚀 Быстрая установка
 ```bash
-curl -sL https://raw.githubusercontent.com/D8epDr8am/dnscrypt-paranoid/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/D8epDr8am/dnscrypt-paranoid-mode/main/install.sh | sudo bash
 ```
 
 Или клонируйте репозиторий:
 ```bash
-git clone https://github.com/D8epDr8am/dnscrypt-paranoid.git
+git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
 cd dnscrypt-paranoid
 sudo bash install.sh
 ```
