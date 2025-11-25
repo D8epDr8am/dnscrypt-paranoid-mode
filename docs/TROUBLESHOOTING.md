@@ -132,8 +132,8 @@ sudo pacman -S dnscrypt-proxy
 Скачайте вручную:
 ```bash
 cd /tmp
-git clone https://github.com/D8epDr8am/dnscrypt-paranoid.git
-cd dnscrypt-paranoid
+git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
+cd dnscrypt-paranoid-mode
 sudo bash install.sh
 ```
 
