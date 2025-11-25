@@ -1,6 +1,6 @@
 ##############################################
 # DNSCrypt-Proxy - Paranoid Privacy Config
-# https://github.com/D8epDr8am/dnscrypt-paranoid
+# https://github.com/D8epDr8am/dnscrypt-paranoid-mode
 ##############################################
 
 listen_addresses = ['127.0.0.1:53', '[::1]:53']
