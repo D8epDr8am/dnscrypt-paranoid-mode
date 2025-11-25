@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # DNSCrypt-Proxy Paranoid Mode Installer
-# https://github.com/YOUR_USERNAME/dnscrypt-paranoid
+# https://github.com/D8epDr8am/dnscrypt-paranoid
 #
 
 set -e
