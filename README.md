@@ -25,7 +25,7 @@ curl -sL https://raw.githubusercontent.com/D8epDr8am/dnscrypt-paranoid-mode/main
 Или клонируйте репозиторий:
 ```bash
 git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
-cd dnscrypt-paranoid
+cd dnscrypt-paranoid-mode
 sudo bash install.sh
 ```
 
