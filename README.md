@@ -151,7 +151,9 @@ sudo systemctl restart dnscrypt-proxy
 
 ## 🤝 Вклад
 
-Баг-репорты и pull requests приветствуются на GitHub: https://github.com/YOUR_USERNAME/dnscrypt-paranoid
+Баг-репорты и pull requests приветствуются на GitHub: https://github.com/
+git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
+/dnscrypt-paranoid
 
 ## 📜 Лицензия
 
