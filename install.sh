@@ -168,7 +168,9 @@ cat > /root/dnscrypt-paranoid-README.txt << 'EOFREADME'
   sudo tail -f /var/log/dnscrypt-proxy/query.log
 
 Документация:
-  https://github.com/YOUR_USERNAME/dnscrypt-paranoid
+  https://github.com/
+git clone https://github.com/D8epDr8am/dnscrypt-paranoid-mode.git
+/dnscrypt-paranoid
 
 ═══════════════════════════════════════════════════════════
 EOFREADME
@@ -190,5 +192,5 @@ echo -e "   ${BLUE}https://dnsleaktest.com${NC}"
 echo -e "   ${BLUE}https://ipleak.net${NC}"
 echo ""
 echo -e "${GREEN}📖 Документация и поддержка:${NC}"
-echo -e "   ${BLUE}https://github.com/YD8epDr8am/dnscrypt-paranoid${NC}"
+echo -e "   ${BLUE}https://github.com/YD8epDr8am/dnscrypt-paranoid-mode${NC}"
 echo ""
