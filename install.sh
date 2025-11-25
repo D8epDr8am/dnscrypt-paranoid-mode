@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # DNSCrypt-Proxy Paranoid Mode Installer
-# https://github.com/D8epDr8am/dnscrypt-paranoid
+# https://github.com/D8epDr8am/dnscrypt-paranoid-mode
 #
 
 set -e
@@ -13,14 +13,14 @@ BLUE='\033[0;34m'
 NC='\033[0m'
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-GITHUB_RAW="https://raw.githubusercontent.com/D8epDr8am/dnscrypt-paranoid/main"
+GITHUB_RAW="https://raw.githubusercontent.com/D8epDr8am/dnscrypt-paranoid-mode/main"
 
 echo -e "${BLUE}"
 cat << "EOF"
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║     DNSCrypt-Proxy Paranoid Mode Installer               ║
-║     https://github.com/D8epDr8am/dnscrypt-paranoid   ║
+║     https://github.com/D8epDr8am/dnscrypt-paranoid-mode   ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 EOF
